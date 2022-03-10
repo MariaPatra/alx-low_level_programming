@@ -2,7 +2,7 @@
 /*
  * File: 4-puts.c
  * Auth: Maria
- * */
+ */
 
 #include <stdio.h>
 
