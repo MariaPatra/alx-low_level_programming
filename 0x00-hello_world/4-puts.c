@@ -1,4 +1,4 @@
-#!/bin/bash
+
 /*
  * File: 4-puts.c
  * Auth: Maria
